@@ -1,4 +1,14 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+/*
+	---------------------------------------------------------
+	This is an example for the use of the "SnakeGame" library
+	
+	If you compile this, you should be able to play Snake in
+	your console.
+	---------------------------------------------------------
+*/
+
+
+#define _CRT_SECURE_NO_WARNINGS
 
 #include "snakeGame.h"
 #include <stdio.h>
